@@ -1,0 +1,27 @@
+.container {
+    text-align: center;
+}
+
+.winner {
+    width: 200px;
+    font-size: 20px;
+    margin: 20px auto;
+}
+
+.start-game-btn {
+    border-radius: 20px;
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    margin-top: 20px;
+    background-color: rgb(34, 34, 34);
+    color: rgb(240, 240, 240);
+    cursor: pointer;
+    outline: none;
+}
+
+.start-game-btn:hover {
+    background-color: rgb(240, 240, 240);
+    color: rgb(34, 34, 34);
+    cursor: pointer;
+}
